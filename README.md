@@ -2,3 +2,5 @@
 GitHubの勉強用リポジトリ2020年版
 
 はじめてのGitとGitHub
+
+commitとpushを同時に実行
